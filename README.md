@@ -11,5 +11,7 @@ Un blog increíble para el curso de Git y Github de Platzi
 * El verdadero amor por las buenas prácticas
 * Trucos
 * Posible por el increíble Platzi Team
+* Incluye ejemplo en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y por cierto, aprendí a editar el **readme.md** en este ejemplo :D
